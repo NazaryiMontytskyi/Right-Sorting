@@ -1,0 +1,3 @@
+D:/KPI projects/ExternalSortingRightMerge/cmake-build-debug/CMakeFiles/ExternalSortingRightMerge.dir
+D:/KPI projects/ExternalSortingRightMerge/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KPI projects/ExternalSortingRightMerge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
